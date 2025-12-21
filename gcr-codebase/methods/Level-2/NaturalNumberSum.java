@@ -6,14 +6,15 @@ public class NaturalNumberSum {
     public static int FindSumUsingRecursion(int number) {
       if(number > 0){
          if(number == 0)
-            return n;
+            return number;
          else
-            return n+FindSumUsingRecursion(number - 1)
+            return number+FindSumUsingRecursion(number - 1);
       }
+        return 0;
      }
 
     //Method to find sum of natural number using formulae
-    public static int FindSumUsingFormulae(int[] factors) {
+    public static int FindSumUsingFormulae(int number) {
        return number * (number + 1)/2;
     }
 
@@ -25,9 +26,13 @@ public class NaturalNumberSum {
         System.out.print("Enter a number: ");
         int number = input.nextInt();
 
-        System.out.println("\nSum of factors: " + findSum(factors));
-        System.out.println("Product of factors: " + findProduct(factors));
-        System.out.println("Sum of squares of factors: " + findSumOfSquares(factors));
+        int sum1 = FindSumUsingRecursion(number);
+        int sum2 = FindSumUsingFormulae(number);
+        if(sum1 == sum2)
+        {
+         System.out.println("Sum using recursion is : " + sum1);
+         System.out.println("Sum using formula : " + sum2);
+        }
 
         input.close();
     }
