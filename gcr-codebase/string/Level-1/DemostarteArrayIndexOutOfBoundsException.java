@@ -1,6 +1,6 @@
 import java.util.*;
 
-class DemonstrateArrayIndexOutOfBoundsException
+class DemostarteArrayIndexOutOfBoundsException
 {
      public void generateException(String[] names)
     {
@@ -38,7 +38,7 @@ class DemonstrateArrayIndexOutOfBoundsException
             names[i] = sc.nextLine();
         }
 
-        DemonstrateArrayIndexOutOfBoundsException obj = new DemonstrateArrayIndexOutOfBoundsException();
+        DemostarteArrayIndexOutOfBoundsException obj = new DemostarteArrayIndexOutOfBoundsException();
 
         try {
             obj.generateException(names);
