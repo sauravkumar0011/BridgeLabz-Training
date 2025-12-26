@@ -1,4 +1,5 @@
 /.metadata/
+.metadata/
 .settings/
 .classpath
 .project
@@ -6,6 +7,7 @@
 # Java build output
 bin/
 target/
+.class/
 
 # Logs
 *.log
