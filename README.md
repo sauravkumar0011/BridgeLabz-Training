@@ -140,6 +140,16 @@ BridgeLabz-Training/
 👉 [Day 3 – scenario based questions](https://github.com/sauravkumar0011/BridgeLabz-Training/tree/core-java-practice/scenario-based/day-1)
 
 ---
+## Week 3: scenario-based & leetcode problems 
+### 📅 Day 1 – solved scenario based 5 questions
+**(Date: 29-Dec-2025)**
+- solved scenario based 5 questions.
+- Organized programs into proper folders.
+- Committed and pushed all changes successfully.
 
+🔗 **Code Link:**  
+👉 [Day 1 – scenario based questions](https://github.com/sauravkumar0011/BridgeLabz-Training/tree/core-java-practice/scenario-based/day-3)
+
+---
 
 
