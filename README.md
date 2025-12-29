@@ -23,3 +23,15 @@
 👉 [Day 6 – Constructors based Programs](https://github.com/sauravkumar0011/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/constructor/levelone)
 
 ---
+## Week 3: Object-Oriented Concepts 
+### 📅 Day 1 – this, static, final key words and instanceof operator related problem practiced 
+**(Date: 29-Dec-2025)**
+- Learned the this, static, final key words and instanceof operator concepts in Java
+- Solved problems based on it, level 1.
+- Organised programs into proper folders.
+- Committed and pushed all changes successfully.
+
+🔗 **Code Link:**  
+👉 [Day 1 – key words and instanceof operator](https://github.com/sauravkumar0011/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/inbuiltfunction/levelone)
+
+---
