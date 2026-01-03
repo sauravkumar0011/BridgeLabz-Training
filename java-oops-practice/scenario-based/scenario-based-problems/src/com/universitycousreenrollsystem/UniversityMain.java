@@ -1,4 +1,4 @@
-package com.universitycourseenrollmentsystem;
+package com.universitycousreenrollsystem;
 
 public class UniversityMain {
 
