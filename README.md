@@ -89,9 +89,7 @@ BridgeLabz-Training/
 
 ---
 
-## Week 2: strings & methods, extras, scenario-based & oops concepts
-
-### 🗓 Day 1 – Strings & Methods  
+### 🗓 Day 6 – Strings & Methods  
 **(Date: 22-Dec-2025)**
 
 - Studied String concepts:
@@ -107,12 +105,12 @@ BridgeLabz-Training/
 - Committed and pushed solutions to the repository.
 
 🔗 **Code Link:**  
-👉 [Day 1 – Strings](https://github.com/sauravkumar0011/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/string)
-👉 [Day 1 – Methods](https://github.com/sauravkumar0011/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/methods)
+👉 [Day 6 – Strings](https://github.com/sauravkumar0011/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/string)
+👉 [Day 6 – Methods](https://github.com/sauravkumar0011/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/methods)
 
 ---
 
-### 🗓 Day 2 – Built-in Functions & Extra Practice  
+### 🗓 Day 7 – Built-in Functions & Extra Practice  
 **(Date: 23-Dec-2025)**
 
 - Practiced Java built-in functions.
@@ -125,11 +123,11 @@ BridgeLabz-Training/
 - Committed and pushed all changes successfully.
 
 🔗 **Code Link:**  
-👉 [Day 2 – Built-in Functions](https://github.com/sauravkumar0011/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/extra)
+👉 [Day 7 – Built-in Functions](https://github.com/sauravkumar0011/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/extra)
 
 ---
 
-### 🗓 Day 3 – solved scenario based questions  
+### 🗓 Day 8 – solved scenario based questions  
 **(Date: 24-Dec-2025)**
 
 - solved scenario based questions.
@@ -137,19 +135,53 @@ BridgeLabz-Training/
 - Committed and pushed all changes successfully.
 
 🔗 **Code Link:**  
-👉 [Day 3 – scenario based questions](https://github.com/sauravkumar0011/BridgeLabz-Training/tree/core-java-practice/scenario-based/day-1)
+👉 [Day 8 – scenario based questions](https://github.com/sauravkumar0011/BridgeLabz-Training/tree/core-java-practice/scenario-based/day-1)
+
+ ---
+ 
+### 📅 Day 9 – solved scenario based and leetcode problems
+**(Date: 29-Dec-2025)**
+- solved scenario based questions.
+- solved leetcode questions.
+- Organized programs into proper folders.
+- Committed and pushed all changes successfully.
+
+🔗 **Code Link:**  
+👉 [Day 9 – leetcode based questions](https://github.com/sauravkumar0011/BridgeLabz-Training/tree/core-java-practice/scenario-based/day-3)
 
 ---
-## Week 3: scenario-based & leetcode problems 
-### 📅 Day 1 – solved scenario based 5 questions
-**(Date: 29-Dec-2025)**
+
+### 📅 Day 10 – solved scenario based 5 questions
+**(Date: 30-Dec-2025)**
 - solved scenario based 5 questions.
 - Organized programs into proper folders.
 - Committed and pushed all changes successfully.
 
 🔗 **Code Link:**  
-👉 [Day 1 – scenario based questions](https://github.com/sauravkumar0011/BridgeLabz-Training/tree/core-java-practice/scenario-based/day-3)
+👉 [Day 10 – scenario based questions](https://github.com/sauravkumar0011/BridgeLabz-Training/tree/core-java-practice/scenario-based/day-3)
 
 ---
+
+### 📅 Day 11 – solved scenario based questions
+**(Date: 31-Dec-2025)**
+- solved scenario based questions.
+- Organized programs into proper folders.
+- Committed and pushed all changes successfully.
+
+🔗 **Code Link:**  
+👉 [Day 11 – scenario based questions](https://github.com/sauravkumar0011/BridgeLabz-Training/tree/core-java-practice/scenario-based/day-3)
+
+---
+
+### 📅 Day 12 – solved leetcode problems
+**(Date: 04-Jan-2026)**
+- solved leetcode 5 questions.
+- Organized programs into proper folders.
+- Committed and pushed all changes successfully.
+
+🔗 **Code Link:**  
+👉 [Day 10 – leetcode based questions](https://github.com/sauravkumar0011/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/strings)
+
+
 
 
