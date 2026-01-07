@@ -77,10 +77,8 @@ BridgeLabz-Training/
 - Tested all implementations thoroughly.
 - Committed and pushed all work.
 
-🔗 **Code Links:**  
-👉 [StringBuilder & StringBuffer]()  
-👉 [FileReader & InputStreamReader]()  
-👉 [Linear Search & Binary Search]()
+🔗 **Code Links:**   
+👉 [Linear Search & Binary Search](https://github.com/sauravkumar0011/BridgeLabz-Training/tree/dsa-practice/gcr-codebase/JavaDsaPractice/src/com/linearandbinarysearch)
 
 ---
 
