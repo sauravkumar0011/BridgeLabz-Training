@@ -1,155 +1,86 @@
-## Week 1: Git, GitHub & Java Programming Fundamentals
-### 📅 Day 1 – Git & GitHub Setup 
-**(Date: 16-Dec-2025)**
+## Week 3: Data Structures & Algorithms in Java
+### 📅 Day 1 – Introduction to Data Structures & Algorithms 
 
-- Installed and configured Git.
-- Set up GitHub repository.
+**(Date: 02-Jan-2026)**
+- Set up and revised the `dsa-practice` branch structure.
 ```
 BridgeLabz-Training/
-│── core-java-practice/
-│ │── gcr-codebase/
-│ │ │── arrays/
-│ │ │── control-flows/
-│ │ │── extra/
-│ │ │── methods/
-│ │ │── programming-elements/
-│ │ │── program-prerequisite/
-│ │ │── string/
-│ │── leet-code-codebase/
-│ │── scenario-based/
+│── dsa-practice/
+│ 	│── gcr-codebase/
+|   |   |── DSAConcepts/
+|   |       |── src/
+|   |           |── com/
+|   |               |── linkedlists/
+|   |               |── stacksandqueues/
+|   |               |── hashmapsandhashfunctions/
+|   |               |── sorting
+│ 	│── leet-code-codebase/
+│ 	│── scenario-based-codebase/
 │── README.md
 ```
-- Learned basic Git commands (`init`, `clone`, `add`, `commit`, `push`).
-- Successfully pushed files to the remote repository.
----
-### 🗓 Day 2 – Git Practice & Basic Java Programs  
-**(Date: 17-Dec-2025)**
-
-- Practiced Git workflow to understand commits and version control.
-- Solved very basic Java programs to understand syntax and structure.
-- Practiced adding, committing, and pushing Java files to GitHub.
-
-🔗 **Code Link:**  
-👉 [Day 2 – Basic Java Programs](https://github.com/sauravkumar0011/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/program-prerequisite)
-
----
-
-### 🗓 Day 3 – Programming Elements in Java  
-**(Date: 18-Dec-2025)**
-
-- Studied Java programming elements:
-  - Variables and data types
-  - Operators
-  - User input and output
-- Solved practice problems based on programming elements.
-- Committed and pushed solutions to the repository.
-
-🔗 **Code Link:**  
-👉 [Day 3 – Programming Elements](https://github.com/sauravkumar0011/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/programming-elements)
+- Studied basics of Data Structures & Algorithms (DSA).
+- Learned why DSA is used in modern applications.
+- Studied LinkedList & its types:
+  - Singly LinkedList
+  - Doubly LinkedList 
+  - Circular Singly LinkedList
+  - Circular Doubly LinkedList
+- Understood basic operations and use cases of each.
+- Committed and pushed all work.
+- 🔗 **Code Link:**  
+👉 [LinkedLists and its types](https://github.com/sauravkumar0011/BridgeLabz-Training/tree/dsa-practice/gcr-codebase/JavaDsaPractice/src/com/linkedlist)
 
 ---
 
-### 🗓 Day 4 – Control Flow & Logical Constructs  
-**(Date: 19-Dec-2025)**
-
-- Studied logical constructs in Java:
-  - if, if-else
-  - switch statement
-  - ternary operator
-- Practiced iteration statements:
-  - for loop
-  - while loop
-  - do-while loop
-- Used `break` and `continue` statements.
-- Solved logical problems such as:
-  - Factorial
-  - Prime number check
-- Committed and pushed solutions to the repository.
-
-🔗 **Code Link:**  
-👉 [Day 4 – Control Flow](https://github.com/sauravkumar0011/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flows)
+### 🗓 Day 2 – Stack, Queue & HashMap
+**(Date: 03-Jan-2026)**
+- Studied core data structures:
+  - Stack
+  - Queue
+  - HashMap
+- Understood basic operations and use cases of each.
+- Committed and pushed all work.
+- 🔗 **Code Link:**  
+👉 [Stack, Queue ](https://github.com/sauravkumar0011/BridgeLabz-Training/tree/dsa-practice/gcr-codebase/JavaDsaPractice/src/com/stackandqueue) <br>
+👉 [Hashing](https://github.com/sauravkumar0011/BridgeLabz-Training/tree/dsa-practice/gcr-codebase/JavaDsaPractice/src/com/hashmapandhashfunctions)
 
 ---
 
-### 🗓 Day 5 – Arrays & Basic Problem Solving  
-**(Date: 20-Dec-2025)**
+### 🗓 Day 3 – Sorting Algorithms
+**(Date: 05-Jan-2026)**
+- Studied and implemented key sorting algorithms:
+  - Bubble Sort
+  - Insertion Sort
+  - Selection Sort
+  - Merge Sort
+  - Quick Sort
+- Understood the basic working principles and performance comparison of various sorting techniques
+- Practiced writing clean, readable, and efficient Java code
 
-- Studied arrays in Java:
-  - Single-dimensional arrays
-  - Multi-dimensional arrays
-- Practiced array traversal and operations.
-- Solved problems related to:
-  - Finding missing elements
-  - Basic array-based logic
-- Strengthened logical thinking using array problems.
-- Committed and pushed solutions to the repository.
-
-🔗 **Code Link:**  
-👉 [Day 5 – Arrays](https://github.com/sauravkumar0011/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays)
+**🔗 Code Links**
+- 👉 [Sorting](https://github.com/sauravkumar0011/BridgeLabz-Training/tree/dsa-practice/gcr-codebase/JavaDsaPractice/src/com/sortingalgorithms)
 
 ---
 
-## Week 2: strings & methods, extras, scenario-based & oops concepts
+### 🗓 Day 4 – String Handling, File Reading & Searching Algorithms
+**(Date: 06-Jan-2026)**
+- Explored mutable string classes:
+  - StringBuilder
+  - StringBuffer
+- Studied character stream readers for file input:
+  - FileReader
+  - InputStreamReader
+- Implemented fundamental searching algorithms:
+  - Linear Search
+  - Binary Search
+- Added proper comments, edge-case handling, and complexity analysis.
+- Tested all implementations thoroughly.
+- Committed and pushed all work.
 
-### 🗓 Day 1 – Strings & Methods  
-**(Date: 22-Dec-2025)**
-
-- Studied String concepts:
-  - String creation
-  - String methods
-  - Character processing
-- Implemented programs for string manipulation.
-- Studied Java methods:
-  - Method declaration
-  - Method calling
-  - Parameter passing
-- Practiced reusable logic using methods.
-- Committed and pushed solutions to the repository.
-
-🔗 **Code Link:**  
-👉 [Day 1 – Strings](https://github.com/sauravkumar0011/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/string)
-👉 [Day 1 – Methods](https://github.com/sauravkumar0011/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/methods)
-
----
-
-### 🗓 Day 2 – Built-in Functions & Extra Practice  
-**(Date: 23-Dec-2025)**
-
-- Practiced Java built-in functions.
-- Implemented utility programs such as:
-  - Temperature Converter
-- Improved understanding of:
-  - Input handling
-  - Type conversion
-- Organized programs into proper folders.
-- Committed and pushed all changes successfully.
-
-🔗 **Code Link:**  
-👉 [Day 2 – Built-in Functions](https://github.com/sauravkumar0011/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/extra)
+🔗 **Code Links:**  
+👉 [StringBuilder & StringBuffer]()  
+👉 [FileReader & InputStreamReader]()  
+👉 [Linear Search & Binary Search]()
 
 ---
-
-### 🗓 Day 3 – solved scenario based questions  
-**(Date: 24-Dec-2025)**
-
-- solved scenario based questions.
-- Organized programs into proper folders.
-- Committed and pushed all changes successfully.
-
-🔗 **Code Link:**  
-👉 [Day 3 – scenario based questions](https://github.com/sauravkumar0011/BridgeLabz-Training/tree/core-java-practice/scenario-based/day-1)
-
----
-## Week 3: scenario-based & leetcode problems 
-### 📅 Day 1 – solved scenario based 5 questions
-**(Date: 29-Dec-2025)**
-- solved scenario based 5 questions.
-- Organized programs into proper folders.
-- Committed and pushed all changes successfully.
-
-🔗 **Code Link:**  
-👉 [Day 1 – scenario based questions](https://github.com/sauravkumar0011/BridgeLabz-Training/tree/core-java-practice/scenario-based/day-3)
-
----
-
 
