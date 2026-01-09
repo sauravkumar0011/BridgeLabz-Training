@@ -82,3 +82,17 @@ BridgeLabz-Training/
 
 ---
 
+### 🗓 Day 5 – Algorithm's Runtime Analysis & Big-O Notation
+**(Date: 07-Jan-2026)**
+- Studied runtime analysis concepts.
+- Learned Big-O notation for efficiency measurement.
+- Analyzed time and space complexity.
+- Understood best, worst, and average cases.
+- Applied practical Java optimization techniques.
+- Tested all implementations thoroughly.
+- Committed and pushed all work.
+
+🔗 **Code Links:**   
+👉 [Algorithm's Runtime Analysis](https://github.com/sauravkumar0011/BridgeLabz-Training/tree/dsa-practice/gcr-codebase/JavaDsaPractice/src/com/analysis)
+
+---
