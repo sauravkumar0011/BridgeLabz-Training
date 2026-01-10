@@ -180,7 +180,7 @@ BridgeLabz-Training/
 - Committed and pushed all changes successfully.
 
 🔗 **Code Link:**  
-👉 [Day 10 – leetcode based questions](https://github.com/sauravkumar0011/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/strings)
+👉 [Day 12 – leetcode based questions](https://github.com/sauravkumar0011/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/strings)
 
 
 
