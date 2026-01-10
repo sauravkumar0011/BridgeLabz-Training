@@ -118,7 +118,13 @@
 - Solved **3** scenario-based problems.
 - Committed and pushed all solutions.
 
+**(Date: 08-Jan-2026)**
+- Solved **2** scenario-based problems.
+- Committed and pushed all solutions.
 
+**(Date: 09-Jan-2026)**
+- Solved **3** scenario-based problems.
+- Committed and pushed all solutions.
 
 
 
