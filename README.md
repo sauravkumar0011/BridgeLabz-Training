@@ -95,4 +95,15 @@ BridgeLabz-Training/
 🔗 **Code Links:**   
 👉 [Algorithm's Runtime Analysis](https://github.com/sauravkumar0011/BridgeLabz-Training/tree/dsa-practice/gcr-codebase/JavaDsaPractice/src/com/analysis)
 
----
+
+## 🧩 Section B : Scenario-Based Problems Progress
+
+🔗 **Code Link:** 👉 [Scenario-Based Problems](https://github.com/sauravkumar0011/BridgeLabz-Training/tree/dsa-practice/scenario-based/scenario-based-problems/src/com)
+
+**(Date: 10-Jan-2026)**
+- Solved **3** scenario-based problems.
+- Committed and pushed all solutions.
+
+**(Date: 12-Jan-2026)**
+- Solved **5** scenario-based problems.
+- Committed and pushed all solutions.
