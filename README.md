@@ -111,3 +111,7 @@ BridgeLabz-Training/
 **(Date: 13-Jan-2026)**
 - Solved **3** scenario-based problems.
 - Committed and pushed all solutions.
+
+**(Date: 15-Jan-2026)**
+- Solved **5** scenario-based problems.
+- Committed and pushed all solutions.
