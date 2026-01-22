@@ -7,15 +7,17 @@
 BridgeLabz-Training/
 │── dsa-practice/
 │ 	│── gcr-codebase/
-|   |   |── DSAConcepts/
+|   |   |── JavaDsaPractice/
 |   |       |── src/
 |   |           |── com/
-|   |               |── linkedlists/
-|   |               |── stacksandqueues/
-|   |               |── hashmapsandhashfunctions/
-|   |               |── sorting
+|   |               |── analysis/
+|   |               |── hashmapandhashfunctions/
+|   |               |── linearandbinarysearch/
+|   |               |── limkedlist/
+|   |               |── sortingalgorithms/
+|   |               |── stackandqueue/
 │ 	│── leet-code-codebase/
-│ 	│── scenario-based-codebase/
+│ 	│── scenario-based/
 │── README.md
 ```
 - Studied basics of Data Structures & Algorithms (DSA).
@@ -114,4 +116,24 @@ BridgeLabz-Training/
 
 **(Date: 15-Jan-2026)**
 - Solved **5** scenario-based problems.
+- Committed and pushed all solutions.
+
+**(Date: 16-Jan-2026)**
+- Solved **3** scenario-based problems.
+- Committed and pushed all solutions.
+
+**(Date: 17-Jan-2026)**
+- Solved **4** scenario-based problems.
+- Committed and pushed all solutions.
+
+**(Date: 19-Jan-2026)**
+- Solved **3** scenario-based problems.
+- Committed and pushed all solutions.
+
+**(Date: 20-Jan-2026)**
+- Solved **3** scenario-based problems.
+- Committed and pushed all solutions.
+
+**(Date: 21-Jan-2026)**
+- Solved **2** scenario-based problems.
 - Committed and pushed all solutions.
