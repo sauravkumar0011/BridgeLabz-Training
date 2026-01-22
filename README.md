@@ -1,6 +1,24 @@
 ## Week 2: Java Programming Fundamentals and Object-Oriented Concepts
 ### 📅 Day 1 –  Object and Classes 
 **(Date: 26-Dec-2025)**
+- Set up and reviewed the `java-oops-practice` branch structure
+```
+BridgeLabz-Training/
+│── java-oops-practice/
+│ 	│── gcr-codebase/
+|   |   |── JavaOopsConcepts/
+|   |       |── src/
+|   |           |── com/
+|   |               |── classandobject/
+|   |               |── constructor/
+|   |               |── encapsulation/
+|   |               |── inbuiltfunction/
+|   |               |── inheritance/
+|   |               |── objectmodelling/
+│ 	│── leet-code-codebase/
+│ 	│── scenario-based/
+│── README.md
+```
 - Learned the working of classes and objects in Java
 - Solved Object and class-based problems, level 1 and 2.
 - Organised programs into proper folders.
@@ -132,4 +150,12 @@
 
 **(Date: 13-Jan-2026)**
 - Solved **2** scenario-based problems.
+- Committed and pushed all solutions.
+
+**(Date: 17-Jan-2026)**
+- Solved **2** scenario-based problems.
+- Committed and pushed all solutions.
+
+**(Date: 19-Jan-2026)**
+- Solved **1** scenario-based problems.
 - Committed and pushed all solutions.
