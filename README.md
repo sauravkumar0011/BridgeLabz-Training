@@ -1,155 +1,89 @@
-## Week 1: Git, GitHub & Java Programming Fundamentals
-### 📅 Day 1 – Git & GitHub Setup 
-**(Date: 16-Dec-2025)**
+## 🗓 Week 4 : Collections Framework in Java
 
-- Installed and configured Git.
-- Set up GitHub repository.
+### 🗓 Day 1 – Java Generics Fundamentals
+**(Date: 16-Jan-2026)**
+- Set up and revised the `java-collections-practice` branch structure.
 ```
 BridgeLabz-Training/
-│── core-java-practice/
-│ │── gcr-codebase/
-│ │ │── arrays/
-│ │ │── control-flows/
-│ │ │── extra/
-│ │ │── methods/
-│ │ │── programming-elements/
-│ │ │── program-prerequisite/
-│ │ │── string/
-│ │── leet-code-codebase/
-│ │── scenario-based/
-│── README.md
+│── java-collections-practice/
+│ 	|   │── gcr-codebase/
+|   |   |    └── JavaCollectionsPractice/
+|   |   |        └── src/
+|   |   |            └── com/
+|   |   |                │── generics/
+|   |   |                │── collections/
+|   |   |                |── streams
+|   |   |
+│ 	|   │── leet-code-codebase/
+│ 	|   └── scenario-based/
+|   └── README.md
 ```
-- Learned basic Git commands (`init`, `clone`, `add`, `commit`, `push`).
-- Successfully pushed files to the remote repository.
----
-### 🗓 Day 2 – Git Practice & Basic Java Programs  
-**(Date: 17-Dec-2025)**
+- Learned Java Generics for type-safe and reusable collection handling.
+- Understood Type Parameters (`T`, `E`, `K`, `V`) and their role in APIs.
+- Implemented Generic Classes and Generic Methods.
+- Used Bounded Types (`extends`, `super`) to restrict and control types.
+- Applied Wildcards (`?`, `? extends`, `? super`) for flexible collections.
+- Followed Generics best practices (no raw types, safe bounds, readable design)
+- 🔗 **Code Link:**  
+👉 [Generics](https://github.com/Raghav-sharma-1310/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsProblem/src/com/generics)
 
-- Practiced Git workflow to understand commits and version control.
-- Solved very basic Java programs to understand syntax and structure.
-- Practiced adding, committing, and pushing Java files to GitHub.
+### 🗓 Day 2 – Java Collections Framework (List, Set, Queue & Map)  
+**(Date: 17-Jan-2026)**
+- Studied Java Collections Framework architecture and hierarchy.
+- Understood the role of `Collection` and `Map` interfaces.
+- Learned **List Interface** and its implementations:
+  - `ArrayList`
+  - `LinkedList`
+  - `Vector`
+- Performed common List operations:
+  - Add, remove, update, search
+  - Iteration using for-each, Iterator, and ListIterator
+- Learned **Set Interface** and its implementations:
+  - `HashSet`
+  - `LinkedHashSet`
+  - `TreeSet`
+- Understood uniqueness, ordering, and sorting behavior in Sets.
+- Learned **Map Interface** and its implementations:
+  - `HashMap`
+  - `LinkedHashMap`
+  - `TreeMap`
+- Performed key-value operations:
+  - Insertion, deletion, retrieval
+  - Iteration using `entrySet()`, `keySet()`, and `values()`
+-  Learned **Queue Interface** and its implementations:
+  - `PriorityQueue`
+  - `ArrayDeque`
+- Studied queue operations:
+  - Enqueue, dequeue, peek & poll
+- Understood FIFO behavior and priority-based processing.
+- Understood internal working, use cases, and performance considerations.
+- Practiced real-time examples for List, Set, Queue and Map.
+- Committed and pushed all work.
+- 🔗 **Code Link:**  
+👉 [List, Set, Queue & Map](https://github.com/Raghav-sharma-1310/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsProblem/src/com/collections)
 
-🔗 **Code Link:**  
-👉 [Day 2 – Basic Java Programs](https://github.com/sauravkumar0011/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/program-prerequisite)
-
----
-
-### 🗓 Day 3 – Programming Elements in Java  
-**(Date: 18-Dec-2025)**
-
-- Studied Java programming elements:
-  - Variables and data types
-  - Operators
-  - User input and output
-- Solved practice problems based on programming elements.
-- Committed and pushed solutions to the repository.
-
-🔗 **Code Link:**  
-👉 [Day 3 – Programming Elements](https://github.com/sauravkumar0011/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/programming-elements)
-
----
-
-### 🗓 Day 4 – Control Flow & Logical Constructs  
-**(Date: 19-Dec-2025)**
-
-- Studied logical constructs in Java:
-  - if, if-else
-  - switch statement
-  - ternary operator
-- Practiced iteration statements:
-  - for loop
-  - while loop
-  - do-while loop
-- Used `break` and `continue` statements.
-- Solved logical problems such as:
-  - Factorial
-  - Prime number check
-- Committed and pushed solutions to the repository.
-
-🔗 **Code Link:**  
-👉 [Day 4 – Control Flow](https://github.com/sauravkumar0011/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flows)
-
----
-
-### 🗓 Day 5 – Arrays & Basic Problem Solving  
-**(Date: 20-Dec-2025)**
-
-- Studied arrays in Java:
-  - Single-dimensional arrays
-  - Multi-dimensional arrays
-- Practiced array traversal and operations.
-- Solved problems related to:
-  - Finding missing elements
-  - Basic array-based logic
-- Strengthened logical thinking using array problems.
-- Committed and pushed solutions to the repository.
-
-🔗 **Code Link:**  
-👉 [Day 5 – Arrays](https://github.com/sauravkumar0011/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays)
+### 🗓 Day 3 – Java I/O Streams  
+**(Date: 19-Jan-2026)**
+- Studied Java I/O Streams architecture and stream-based data handling.
+- Covered Byte Streams and Character Streams for file operations.
+- Learned and implemented:
+  - `FileInputStream`, `FileOutputStream`
+  - `FileReader`, `FileWriter`
+  - `BufferedInputStream`, `BufferedOutputStream`
+  - `BufferedReader`, `BufferedWriter`
+- Understood Object Streams:
+  - `ObjectInputStream`, `ObjectOutputStream`
+  - Serialization and deserialization
+- Practiced in-memory streams:
+  - `ByteArrayInputStream`, `ByteArrayOutputStream`
+- Used bridge streams:
+  - `InputStreamReader`, `OutputStreamWriter`
+- Applied try-with-resources, buffering, and performance best practices.
+- Solved practical problems including file copy, serialization, and efficient large-file reading.
+- Committed and pushed all work.
+- 🔗 **Code Link:**  
+👉 [Java I/O Streams](https://github.com/Raghav-sharma-1310/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsProblem/src/com/streams)
 
 ---
-
-## Week 2: strings & methods, extras, scenario-based & oops concepts
-
-### 🗓 Day 1 – Strings & Methods  
-**(Date: 22-Dec-2025)**
-
-- Studied String concepts:
-  - String creation
-  - String methods
-  - Character processing
-- Implemented programs for string manipulation.
-- Studied Java methods:
-  - Method declaration
-  - Method calling
-  - Parameter passing
-- Practiced reusable logic using methods.
-- Committed and pushed solutions to the repository.
-
-🔗 **Code Link:**  
-👉 [Day 1 – Strings](https://github.com/sauravkumar0011/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/string)
-👉 [Day 1 – Methods](https://github.com/sauravkumar0011/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/methods)
-
----
-
-### 🗓 Day 2 – Built-in Functions & Extra Practice  
-**(Date: 23-Dec-2025)**
-
-- Practiced Java built-in functions.
-- Implemented utility programs such as:
-  - Temperature Converter
-- Improved understanding of:
-  - Input handling
-  - Type conversion
-- Organized programs into proper folders.
-- Committed and pushed all changes successfully.
-
-🔗 **Code Link:**  
-👉 [Day 2 – Built-in Functions](https://github.com/sauravkumar0011/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/extra)
-
----
-
-### 🗓 Day 3 – solved scenario based questions  
-**(Date: 24-Dec-2025)**
-
-- solved scenario based questions.
-- Organized programs into proper folders.
-- Committed and pushed all changes successfully.
-
-🔗 **Code Link:**  
-👉 [Day 3 – scenario based questions](https://github.com/sauravkumar0011/BridgeLabz-Training/tree/core-java-practice/scenario-based/day-1)
-
----
-## Week 3: scenario-based & leetcode problems 
-### 📅 Day 1 – solved scenario based 5 questions
-**(Date: 29-Dec-2025)**
-- solved scenario based 5 questions.
-- Organized programs into proper folders.
-- Committed and pushed all changes successfully.
-
-🔗 **Code Link:**  
-👉 [Day 1 – scenario based questions](https://github.com/sauravkumar0011/BridgeLabz-Training/tree/core-java-practice/scenario-based/day-3)
-
----
-
+## 🧩 Section B : Scenario-Based Problems Progress
 
