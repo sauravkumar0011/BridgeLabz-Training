@@ -8,22 +8,19 @@ This repository documents my learning journey at BridgeLabz, spanning from **Dec
 
 ---
 
-##  Repository Branches
+## Repository Branches
 
-### 🔹 [core-java-practice](https://github.com/Raghav-sharma-1310/BridgeLabz-Training/tree/core-java-practice)
+### 🔹 [core-java-practice](https://github.com/sauravkumar0011/BridgeLabz-Training/tree/core-java-practice)
 **Week 1** : Fundamentals of Java Programming
 
-### 🔹 [java-oops-practice](https://github.com/Raghav-sharma-1310/BridgeLabz-Training/tree/java-oops-practice)
+### 🔹 [java-oops-practice](https://github.com/sauravkumar0011/BridgeLabz-Training/tree/java-oops-practice)
 **Week 2** : Object-Oriented Programming
 
-### 🔹 [dsa-practice](https://github.com/Raghav-sharma-1310/BridgeLabz-Training/tree/dsa-practice)
+### 🔹 [dsa-practice](https://github.com/sauravkumar0011/BridgeLabz-Training/tree/dsa-practice)
 **Week 3** : Data Structures & Algorithms
 
-### 🔹 [java-collections-practice](https://github.com/Raghav-sharma-1310/BridgeLabz-Training/tree/java-collections-practice)
+### 🔹 [java-collections-practice](https://github.com/sauravkumar0011/BridgeLabz-Training/tree/java-collections-practice)
 **Week 4** : Java Collections Framework
-
-### 🔹 [java-collections-practice](https://github.com/Raghav-sharma-1310/BridgeLabz-Training/tree/java-iostreams-practice)
-**Week 5** : Java I/O streams
 
 ---
 
@@ -90,77 +87,7 @@ BridgeLabz-Training/
 |   |   |                └── 📁 customannotations/    # Custom annotations- basic, intermediate and advanced level 
 |   |   ├── 📁 leet-code-codebase/                    # LeetCode solutions
 │   |   └── 📁 scenario-based-codebase/               # Real-world problems
-|
-└── 📁 java-iostreams-practice/
-|   └── 📁 java-iostreams-practice/
-|   |   └── 📁 gcr-codebase/
-|   |   |   └── 📁 IOStreamsConcepts/
-|   |   |       └── 📁 src/
-|   |   |           └── 📁 com/
-|   |   |               ├── 📁 csvdata/        # CSV Data Handling
-|   |   |
-|   |   ├── 📁 leet-code-codebase/             # LeetCode solutions
-│   |   └── 📁 scenario-based-codebase/        # Real-world problems
-└── README.md
 ```
-
----
-
-##  Learning Milestones
-
-### **Week 1 : Core Java Programming**
-
-| Day |     Date    | Topic                           | Coverage                              |
-|-----|-------------|---------------------------------|---------------------------------------|
-|   1 | 15-Dec      | Git & GitHub Setup              | Repository setup, Git workflow        |
-|   2 | 16-Dec      | Java Basics                     | Basic syntax, prerequisites           |
-|   3 | 17-Dec      | Programming Elements            | Data types, operators, input handling |
-|   4 | 18-Dec      | Control Flow                    | Conditions, loops, logical problems   |
-|   5 | 19-Dec      | Arrays                          | 1D & 2D arrays, traversal             |
-|   6 | 20-Dec      | Methods                         | Method declaration, parameters        |
-|   7 | 22-Dec      | Strings                         | String creation, methods              |
-|   8 | 23-Dec      | Built-in Functions & Exceptions | Math, Random, Date-Time, exceptions   |
-
-### **Week 2 : Object-Oriented Programming**
-
-| Day |     Date    | Topic                          | Coverage                               |
-|-----|-------------|--------------------------------|----------------------------------------|
-|   9 | 26-Dec      | OOP Basics                     | Procedural vs OOP, fundamentals        |
-|  10 | 27-Dec      | Constructors & Static Concepts | Constructors, access modifiers, static |
-|  11 | 29-Dec      | `this`, `final`, `static`      | Keywords, instance vs class members    |
-|  12 | 30-Dec      | Object Modeling                | Diagrams, relationships, communication |
-|  13 | 31-Dec      | Inheritance & Types            | Inheritance types and  access modifiers|
-|  14 | 01-Jan      | Encapsulation & Polymorphism   | Data hiding, polymorphism, interfaces  |
-
-### **Week 3 : Data Structures & Algorithms**
-
-| Day |     Date    | Topic                          | Coverage                               |
-|-----|-------------|--------------------------------|----------------------------------------|
-|  15 | 02-Jan      | DSA Basics & LinkedList        | DSA concepts, LinkedList and its types |
-|  16 | 03-Jan      | Stack, Queue & HashMap         | Core operations and basic use cases    |
-|  17 | 05-Jan      | Sorting                        | Sorting algorithms & comparison logic  |
-|  18 | 06-Jan      | Searching & I/O utilities      | Linear & Binary Search and FileReader  |
-|  19 | 07-Jan      | Runtime Analysis & Big-O       | Time & space complexity analysis       |
-|  20 | 13-Jan      | Trees & Binary Search Trees    | Basics, types and CRUD operations      |
-|  21 | 15-Jan      | Graphs (DFS & BFS)             | Basics and traversal algorithms        |
-
-### **Week 4 : Java Caollection Framework**
-
-| Day |     Date    | Topic                          | Coverage                                                              |
-|-----|-------------|--------------------------------|-----------------------------------------------------------------------|
-|  22 | 16-Jan      | Java Generics                  | Generic classes, methods, type parameters, bounded types, wildcards   |
-|  23 | 17-Jan      | Collections                    | Set, Map, Queue and List Interfaces                                   |
-|  24 | 19-Jan      | Java I/O Streams               | Byte, character, buffered, object & bridge streams                    |
-|  25 | 20-Jan      | Exception Handling             | Checked, unchecked, custom exceptions, try(resources) & nested        |
-|  26 | 21-Jan      | Regex & JUnit Testing          | Pattern matching, validations, groups, unit testing, assertions       |
-|  27 | 22-Jan      | Annotations & Reflection       | Built-in & custom annotations, runtime inspection, proxies            |
-
-## 🗓 Week 5 : Java I/O Streams
-
-| Day |     Date    | Topic                          | Coverage                                                     |
-|-----|-------------|--------------------------------|--------------------------------------------------------------|
-|  28 | 23-Jan      | CSV Data Handling              | Introduction, Reading, Writing, Parsing and  Data Validation |
-
 ---
 
 ##  Key Concepts Covered
@@ -209,60 +136,8 @@ BridgeLabz-Training/
 - **Exception Handling**: Checked vs unchecked exceptions, `try-catch-finally`, multiple and nested catch blocks, `throw` vs `throws`, custom exceptions, try-with-resources
 - **Regex & JUnit Testing**: Pattern matching, validation rules, groups, quantifiers, unit tests, assertions, test lifecycle
 - **Reflection**: Runtime class inspection, private member access, dynamic invocation, constructors, proxies, annotation processing 
-- **Annotations**: Built-in annotations, meta-annotations, custom annotations, retention policies, processors, framework usage 
-
-### Java IOStreams (java-iostreams-practice)
-- **CSV Data Handling**: Introduction, Reading, Writing, Parsing and  Data Validation of CSV Files
-
----
-
-## 🔗 Quick Links
-
-### `core-java-practice` :
-- 📌 [Prerequisites](https://github.com/Raghav-sharma-1310/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/program-prerequisite)
-- 📌 [Control Flows](https://github.com/Raghav-sharma-1310/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flow)
-- 📌 [Programming Elements](https://github.com/Raghav-sharma-1310/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/programming-elements)
-- 📌 [Arrays](https://github.com/Raghav-sharma-1310/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays)
-- 📌 [Methods](https://github.com/Raghav-sharma-1310/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/methods)
-- 📌 [Strings](https://github.com/Raghav-sharma-1310/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/strings)
-- 📌 [Built-In Functions](https://github.com/Raghav-sharma-1310/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/extras)
-- 📌 [LeetCode Solutions](https://github.com/Raghav-sharma-1310/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase)
-- 📌 [Scenario-Based Solutions](https://github.com/Raghav-sharma-1310/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
-
-### `java-oops-practice` :
-- 📌 [Classes and Objects](https://github.com/Raghav-sharma-1310/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/classandobject)
-- 📌 [Constructors ](https://github.com/Raghav-sharma-1310/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/constructors/levelone)
-- 📌 [this, final, static, instanceof](https://github.com/Raghav-sharma-1310/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/inbuiltfunction/levelone)
-- 📌 [Object Modeling & Relations](https://github.com/Raghav-sharma-1310/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/objectmodelling)
-- 📌 [Inheritance & Types](https://github.com/Raghav-sharma-1310/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/inheritance)
-- 📌 [Encapsulation & Polymorphism](https://github.com/Raghav-sharma-1310/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/encapsulation)
-- 📌 [LeetCode Solutions](https://github.com/Raghav-sharma-1310/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/leet-code-codebase/LeetCodeProblems/src)
-- 📌 [Scenario-Based Solutions](https://github.com/Raghav-sharma-1310/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBasedProblems/src/com)
-
-### `dsa-practice` :
-- 📌 [Linked Lists](https://github.com/Raghav-sharma-1310/BridgeLabz-Training/tree/dsa-practice/gcr-codebase/DSAConcepts/src/com/linkedlist)
-- 📌 [Stacks and Queues](https://github.com/Raghav-sharma-1310/BridgeLabz-Training/tree/dsa-practice/gcr-codebase/DSAConcepts/src/com/stackandqueue)
-- 📌 [HashMaps and Hash Functions](https://github.com/Raghav-sharma-1310/BridgeLabz-Training/tree/dsa-practice/gcr-codebase/DSAConcepts/src/com/hashmapandhashfunctions)
-- 📌 [Sorting Algorithms](https://github.com/Raghav-sharma-1310/BridgeLabz-Training/tree/dsa-practice/gcr-codebase/DSAConcepts/src/com/sorting)
-- 📌 [Searching Algorithms, String & I/O utilities](https://github.com/Raghav-sharma-1310/BridgeLabz-Training/tree/dsa-practice/gcr-codebase/DSAConcepts/src/com/linearandbinarysearch)
-- 📌 [Time & Space Complexity Analysis](https://github.com/Raghav-sharma-1310/BridgeLabz-Training/tree/dsa-practice/gcr-codebase/DSAConcepts/src/com/analysis)
-- 📌 [Scenario_Based_Solution](https://github.com/Raghav-sharma-1310/BridgeLabz-Training/tree/dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com)
-
-### `java-collections-practice` : 
-- 📌 [Generics](https://github.com/Raghav-sharma-1310/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsProblem/src/com/generics)
-- 📌 [Collections](https://github.com/Raghav-sharma-1310/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsProblem/src/com/collections)
-- 📌 [IO-Streams](https://github.com/Raghav-sharma-1310/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsProblem/src/com/streams)
-- 📌 [Exception-Handling](https://github.com/Raghav-sharma-1310/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsProblem/src/com/exceptionhandling)
-- 📌 [Regex](https://github.com/Raghav-sharma-1310/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsProblem/src/com/regex)
-- 📌 [JUnit](https://github.com/Raghav-sharma-1310/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsProblem/src/com/junit)
-- 📌 [Reflection](https://github.com/Raghav-sharma-1310/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsProblem/src/com/reflection)
-- 📌 [Annotations](https://github.com/Raghav-sharma-1310/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsProblem/src/com/annotations)
-- 📌 [Custom_Annotations](https://github.com/Raghav-sharma-1310/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsProblem/src/com/customannotations)
-- 📌 [Scenario_Based_Solution](https://github.com/Raghav-sharma-1310/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/scenario-based-codebase/ScenarioBasedProblems/src/com)
-
-### `java-iostreams-practice` :
-- 📌 [CSV_File_Data](https://github.com/Raghav-sharma-1310/BridgeLabz-Training/tree/java-iostreams-practice/java-iostreams-practice/gcr-codebase/IOStreamsConcepts/src/com/csvdata)
-  
+- **Annotations**: Built-in annotations, meta-annotations, custom annotations, retention policies, processors, framework usage
+ 
 ---
 
 ## 🎓 Learnings & Best Practices
