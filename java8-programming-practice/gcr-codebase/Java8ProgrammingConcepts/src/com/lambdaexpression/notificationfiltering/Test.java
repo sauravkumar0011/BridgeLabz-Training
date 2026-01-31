@@ -1,4 +1,4 @@
-package com.lambdaexpressioon.notificationfiltering;
+package com.lambdaexpression.notificationfiltering;
 
 import java.util.ArrayList;
 import java.util.List;

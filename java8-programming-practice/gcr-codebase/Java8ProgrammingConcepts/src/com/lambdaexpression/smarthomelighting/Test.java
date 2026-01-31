@@ -1,4 +1,4 @@
-package com.lambdaexpressions.smarthomelighting;
+package com.lambdaexpression.smarthomelighting;
 
 public class Test {
 

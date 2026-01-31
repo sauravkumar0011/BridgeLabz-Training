@@ -1,4 +1,4 @@
-package com.lambdaexpressioon.notificationfiltering;
+package com.lambdaexpression.notificationfiltering;
 
 public class Alert {
 	
