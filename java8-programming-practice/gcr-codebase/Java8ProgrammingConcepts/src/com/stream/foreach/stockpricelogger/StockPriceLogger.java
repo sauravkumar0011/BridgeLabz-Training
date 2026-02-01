@@ -1,4 +1,4 @@
-package com.stream.foreachmethod.stockpricelogger;
+package com.stream.foreach.stockpricelogger;
 
 import java.util.List;
 
