@@ -28,6 +28,12 @@ This repository documents my learning journey at BridgeLabz, spanning from **Dec
 ### 🔹 [java8-programming-practice](https://github.com/sauravkumar0011/BridgeLabz-Training/tree/java8-programming-practice)
 **Week 6** : Java-8 programming concepts
 
+### 🔹 [java-design-pattern-practice](https://github.com/sauravkumar0011/BridgeLabz-Training/tree/java-design-pattern-practice)
+**Week 7** : Java Design Principles & Design Patterns
+
+### 🔹 [dbms-jdbc-practice](https://github.com/sauravkumar0011/BridgeLabz-Training/tree/dbms-jdbc-practice)
+**Week 8** : DBMS, SQL & JDBC Fundamentals
+
 ---
 
 ## 📂 Project Structure
@@ -93,7 +99,140 @@ BridgeLabz-Training/
 |   |   |                └── 📁 customannotations/    # Custom annotations- basic, intermediate and advanced level 
 |   |   ├── 📁 leet-code-codebase/                    # LeetCode solutions
 │   |   └── 📁 scenario-based-codebase/               # Real-world problems
+|
+└── 📁 java-iostreams-practice/
+|   └── 📁 java-iostreams-practice/
+|   |   └── 📁 gcr-codebase/
+|   |   |   └── 📁 IOStreamsConcepts/
+|   |   |       └── 📁 src/
+|   |   |           └── 📁 com/
+|   |   |               ├── 📁 csvdata/            # CSV Data Handling
+|   |   |               ├── 📁 jsondatahandling/   # JSON parsing, schema validation, mapping, conversions
+|   |   ├── 📁 leet-code-codebase/                 # LeetCode solutions
+│   |   └── 📁 scenario-based-codebase/            # Real-world problems
+|
+├── 📁 java8-programming-practice/
+|   ├── 📁 java8-programming-practice/
+│   |    ├── 📁 gcr-codebase/
+│   │    |    └── 📁 Java8Concepts/
+│   │    |        └── 📁 src/
+│   │    |            └── 📁 com/
+│   │    |                ├── 📁 lambdasexpression/           # Lambda expressions, functional interfaces, syntax
+│   │    |                └── 📁 methodreferences/            # Static, instance, constructor references
+|   |    |                └── 📁 interfaces/                  # Default methods, static methods, functional interfaces
+|   |    |                └── 📁 streamapi/                   # Stream creation, filter, map, reduce operations
+|   |    |                └── 📁 collectors/                  # groupingBy, mapping, averaging, summarizing
+|   |    |                └── 📁 foreachmethod/               # forEach with lambda and method references
+|   |    |                └── 📁 smartcitymanagementsystem/   # workshop based on the java8 features
+│   |    ├── 📁 leet-code-codebase/                           # LeetCode solutions
+│   |    └── 📁 scenario-based-codebase/                      # Real-world problems
+|
+├── 📁 java-design-pattern-practice/
+|   ├── 📁 java-design-pattern-practice/
+|   |   ├── 📁 gcr-codebase/
+│   |   │   └── 📁 DesignPatternConcepts/
+│   │   |        └── 📁 src/
+│   │   |            └── 📁 com/
+│   │   |                ├── 📁 designprinciples/    # SOLID principles and design patterns
+│   │   |                └── 📁 multithreading/      # Thread lifecycle, synchronization, concurrency examples 
+|   |   |
+│   |   ├── 📁 leet-code-codebase/                   # LeetCode solutions
+│   |   └── 📁 scenario-based-codebase/              # Real-world problems
+|
+├── 📁 dbms-jdbc-practice/
+|   ├── 📁 dbms-jdbc-practice/
+│   |   ├── 📁 gcr-codebase/
+│   │   |    └── 📁 DbmsJdbcConcepts/
+│   │   |        ├── 📁 src/
+│   │   |        │   └── 📁 main/
+│   │   |        │       └── 📁 java/
+│   │   |        │           └── 📁 com/
+│   │   |        │               └── 📁 librarymanagement/     # Sql queries for library management program
+│   │   |        │               └── 📁 simplecrud/            # Sql queries for Simple CRUD program
+│   │   |        │               └── 📁 transactionmanagement/ # Sql queries for Transaction management program
+│   │   |        └── pom.xml                                   # Maven configuration and dependency management
+│   │   |
+│   |   ├── 📁 leet-code-codebase/                             # LeetCode solutions
+│   |   └── 📁 scenario-based-codebase/                        # Real-world problems
+|
+└── README.md
 ```
+---
+
+##  Learning Milestones
+
+### **Week 1 : Core Java Programming**
+
+| Day |     Date    | Topic                           | Coverage                              |
+|-----|-------------|---------------------------------|---------------------------------------|
+|   1 | 15-Dec      | Git & GitHub Setup              | Repository setup, Git workflow        |
+|   2 | 16-Dec      | Java Basics                     | Basic syntax, prerequisites           |
+|   3 | 17-Dec      | Programming Elements            | Data types, operators, input handling |
+|   4 | 18-Dec      | Control Flow                    | Conditions, loops, logical problems   |
+|   5 | 19-Dec      | Arrays                          | 1D & 2D arrays, traversal             |
+|   6 | 20-Dec      | Methods                         | Method declaration, parameters        |
+|   7 | 22-Dec      | Strings                         | String creation, methods              |
+|   8 | 23-Dec      | Built-in Functions & Exceptions | Math, Random, Date-Time, exceptions   |
+
+### **Week 2 : Object-Oriented Programming**
+
+| Day |     Date    | Topic                          | Coverage                               |
+|-----|-------------|--------------------------------|----------------------------------------|
+|   9 | 26-Dec      | OOP Basics                     | Procedural vs OOP, fundamentals        |
+|  10 | 27-Dec      | Constructors & Static Concepts | Constructors, access modifiers, static |
+|  11 | 29-Dec      | `this`, `final`, `static`      | Keywords, instance vs class members    |
+|  12 | 30-Dec      | Object Modeling                | Diagrams, relationships, communication |
+|  13 | 31-Dec      | Inheritance & Types            | Inheritance types and  access modifiers|
+|  14 | 01-Jan      | Encapsulation & Polymorphism   | Data hiding, polymorphism, interfaces  |
+
+### **Week 3 : Data Structures & Algorithms**
+
+| Day |     Date    | Topic                          | Coverage                               |
+|-----|-------------|--------------------------------|----------------------------------------|
+|  15 | 02-Jan      | DSA Basics & LinkedList        | DSA concepts, LinkedList and its types |
+|  16 | 03-Jan      | Stack, Queue & HashMap         | Core operations and basic use cases    |
+|  17 | 05-Jan      | Sorting                        | Sorting algorithms & comparison logic  |
+|  18 | 06-Jan      | Searching & I/O utilities      | Linear & Binary Search and FileReader  |
+|  19 | 07-Jan      | Runtime Analysis & Big-O       | Time & space complexity analysis       |
+|  20 | 13-Jan      | Trees & Binary Search Trees    | Basics, types and CRUD operations      |
+|  21 | 15-Jan      | Graphs (DFS & BFS)             | Basics and traversal algorithms        |
+
+### **Week 4 : Java Caollection Framework**
+
+| Day |     Date    | Topic                          | Coverage                                                              |
+|-----|-------------|--------------------------------|-----------------------------------------------------------------------|
+|  22 | 16-Jan      | Java Generics                  | Generic classes, methods, type parameters, bounded types, wildcards   |
+|  23 | 17-Jan      | Collections                    | Set, Map, Queue and List Interfaces                                   |
+|  24 | 19-Jan      | Java I/O Streams               | Byte, character, buffered, object & bridge streams                    |
+|  25 | 20-Jan      | Exception Handling             | Checked, unchecked, custom exceptions, try(resources) & nested        |
+|  26 | 21-Jan      | Regex & JUnit Testing          | Pattern matching, validations, groups, unit testing, assertions       |
+|  27 | 22-Jan      | Annotations & Reflection       | Built-in & custom annotations, runtime inspection, proxies            |
+
+### **Week 5 : Java I/O Streams**
+
+| Day |     Date    | Topic                          | Coverage                                                            |
+|-----|-------------|--------------------------------|---------------------------------------------------------------------|
+|  28 | 23-Jan      | CSV Data Handling              | Introduction, Reading, Writing, Parsing and  Data Validation        |
+|  29 | 24-Jan      | JSON Data Handling in Java     | JSON parsing, POJO mapping, schema validation, CSV to JSON, etc.    |
+
+### **Week 6 : Java 8 Features**
+| Day |     Date    | Topic                                    | Coverage                                                            |
+|-----|-------------|------------------------------------------|---------------------------------------------------------------------|
+|  30 | 27-Jan      | Lambdas, method references & interfaces  | Lambdas expressions, method references and interfaces               |
+|  31 | 28-Jan      | Stream API, Collectors and workshop      | Stream creation, filter, map, reduce, Collectors, hands-on workshop |
+
+### **Week 7 : Java Design Principles & Design Patterns**
+| Day |     Date    | Topic                          | Coverage                                                            |
+|-----|-------------|--------------------------------|---------------------------------------------------------------------|
+| 32  | 31-Jan      | Design Principles & Patterns   | SOLID, DRY, YAGNI, KISS, GoF patterns, clean code principles        |
+| 33  | 02-Feb      | Multithreading in Java         | Thread lifecycle, synchronization, concurrency use cases            |
+
+### **Week 8 : DBMS, SQL & JDBC Fundamentals**
+| Day |     Date    | Topic                          | Coverage                                                            |
+|-----|-------------|--------------------------------|---------------------------------------------------------------------|
+| 34  | 06-Feb      | DBMS & SQL Optimization        | Normalization, joins, transactions, indexes, tuning & EXPLAIN       |
+
+
 ---
 
 ##  Key Concepts Covered
@@ -158,6 +297,23 @@ BridgeLabz-Training/
 - **Collectors**: Grouping, partitioning, summarization, joining
 - **Workshop**: Real-world data processing using streams
 
+### Java Design Principles & Design Patterns (java-design-pattern-practice)
+- **Design Principles**: SOLID, DRY, KISS, YAGNI, composition over inheritance
+- **Design Patterns**: Singleton, Factory, Observer, Builder
+- **Clean Code Practices**: Object Calisthenics, interface-driven design
+- **Multithreading**: Thread lifecycle, creation using Thread & Runnable, priorities, daemon threads
+- **Synchronization**: Locks, shared resource handling, race-condition prevention
+- **Concurrency Testing**: JUnit validation, timing logs, performance comparison
+-  **Problem Solving**: LeetCode challenges, real-world scenarios
+
+### DBMS, SQL & JDBC Fundamentals (dbms-jdbc-practice)
+- **Database Design**: Normal forms (1NF–4NF, BCNF), schema modeling
+- **Keys**: Primary, foreign, composite, candidate, unique
+- **SQL Commands**: DDL, DML, DQL, DCL, TCL
+- **Joins**: Inner, outer, cross, self joins
+- **Advanced Queries**: Subqueries, CTEs, window functions
+- **Indexing**: Clustered, non-clustered, composite, full-text
+- **Query Optimization**: Execution plans, `EXPLAIN`, tuning strategies
 
 ---
 
