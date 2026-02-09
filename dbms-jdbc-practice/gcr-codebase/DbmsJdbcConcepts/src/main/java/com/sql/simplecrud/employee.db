@@ -1,0 +1,109 @@
+-- ============================================================
+-- Problem: Exercise 1 - Simple CRUD Application
+-- File: employee.db
+-- Table: employee
+-- Database: mypractice
+-- ============================================================
+
+-- mysql>
+CREATE TABLE employee (
+emp_id INT PRIMARY KEY AUTO_INCREMENT,
+name VARCHAR(50) NOT NULL,
+salary DECIMAL(10,2) NOT NULL,
+department VARCHAR(40)
+);
+
+-- mysql>
+DESC employee;
+
+/* o/p
++-------------+---------------+------+-----+---------+----------------+
+| Field       | Type          | Null | Key | Default | Extra          |
++-------------+---------------+------+-----+---------+----------------+
+| emp_id      | int           | NO   | PRI | NULL    | auto_increment |
+| name        | varchar(50)   | NO   |     | NULL    |                |
+| salary      | decimal(10,2) | NO   |     | NULL    |                |
+| department  | varchar(40)   | YES  |     | NULL    |                |
++-------------+---------------+------+-----+---------+----------------+
+*/
+
+// Added employee
+
+-- mysql>
+INSERT INTO employee (name, salary, department) VALUES
+('Saurav Kumar', 55000, 'Operations'),
+('Shivam Mishra', 60000, 'Logistics'),
+('Vikash Singh', 75000, 'Training'),
+('Sunny Singh', 68000, 'Security'),
+('Sanya Choubey', 72000, 'Compliance');
+
+// View all employees
+
+-- mysql>
+SELECT * FROM employee;
+
+/* o/p
++--------+---------------+----------+------------+
+| emp_id | name          | salary   | department |
++--------+---------------+----------+------------+
+|      1 | Saurav Kumar  | 55000.00 | Operations |
+|      2 | Shivam Mishra | 60000.00 | Logistics  |
+|      3 | Vikash Singh  | 75000.00 | Training   |
+|      4 | Sunny Singh   | 68000.00 | Security   |
+|      5 | Sanya Choubey | 72000.00 | Compliance |
++--------+---------------+----------+------------+
+*/
+
+// Update employee salary
+
+-- mysql>
+UPDATE employee
+SET salary = 65500
+WHERE emp_id = 1;
+
+-- mysql>
+SELECT * FROM employee WHERE emp_id = 1;
+
+/* o/p
++--------+--------------+----------+------------+
+| emp_id | name         | salary   | department |
++--------+--------------+----------+------------+
+|      1 | Saurav Kumar | 65500.00 | Operations |
++--------+--------------+----------+------------+
+*/
+
+
+// Delete employee
+
+-- mysql>
+DELETE FROM employee
+WHERE emp_id = 3;
+
+-- mysql>
+SELECT * FROM employee;
+
+/* o/p
++--------+---------------+----------+------------+
+| emp_id | name          | salary   | department |
++--------+---------------+----------+------------+
+|      1 | Saurav Kumar  | 65500.00 | Operations |
+|      2 | Shivam Mishra | 60000.00 | Logistics  |
+|      4 | Sunny Singh   | 68000.00 | Security   |
+|      5 | Sanya Choubey | 72000.00 | Compliance |
++--------+---------------+----------+------------+
+*/
+
+
+// Search employee by name
+
+-- mysql>
+SELECT * FROM employee
+WHERE name = 'Saurav Kumar';
+
+/* o/p
++--------+--------------+----------+------------+
+| emp_id | name         | salary   | department |
++--------+--------------+----------+------------+
+|      1 | Saurav Kumar | 65500.00 | Operations |
++--------+--------------+----------+------------+
+*/
